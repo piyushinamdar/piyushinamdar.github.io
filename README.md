@@ -10,6 +10,11 @@ Skills: Springboot/Java/Camunda/IBM-ODM
 
 - 🔭 I’m currently working on this page. 
 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter: invert(100%);">(https://github.com/piyushinamdar) 
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="filter: invert(100%);">(https://www.linkedin.com/in/piyush-inamdar/)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="filter: invert(100%);">(https://twitter.com/piyush_inamdar)
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.t.1/icons/leetcode.svg' alt='leetcode' height='40' style="filter: invert(100%);">(https://leetcode.com/Piyush_Inamdar/)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/piyushinamdar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/piyush-inamdar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/piyush_inamdar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/Piyush_Inamdar/)  
 
